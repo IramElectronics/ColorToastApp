@@ -1,10 +1,10 @@
 # ColorToastApp
 This is a Colorful Toast Library
 
-> Step 1. Add the JitPack repository to your build file
+> Step 1. Add the JitPack repository to your setting.gradle file
 
 ```
-	allprojects {
+	dependencyResolutionManagement {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
