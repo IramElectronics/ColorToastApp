@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:id="@+id/myCustom_ToastRoot"
+    >
+
+    <LinearLayout
+        android:id="@+id/myCustom_ToastLayoutBg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="15dp"
+        android:layout_marginBottom="50dp"
+        android:requiresFadingEdge="horizontal"
+
+
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/myCustom_ToastIcon"
+            android:layout_width="65dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_warning_sign_pxby"/>
+
+        <TextView
+            android:id="@+id/myCustom_ToastTxt"
+            android:layout_marginStart="5dp"
+            android:textSize="14dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:text="Lorem Ipsum is scluding versions of Lorem Ipsum."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

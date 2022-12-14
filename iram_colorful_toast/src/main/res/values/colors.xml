@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Shades of Purple-->
+    <color name="Purple_200">#FFBB86FC</color>         <color name="Purple_150">#DD9EFF</color>                 <color name="Purple_100">#E3B0FF</color>
+    <color name="Purple_700">#FF3700B3</color>         <color name="Purple_500">#FF6200EE</color>
+
+    <!--Shades of Teal-->
+    <color name="teal_200">#FF03DAC5</color>             <color name="teal_700">#FF018786</color>
+
+    <!--Shades of Orange-->
+    <color name="Orange_Middle">#ff7f27</color>         <color name="Orange_Master">#f9a825</color>            <color name="Orange_Light">#FFC36A</color>        <color name="Orange_Lighter">#FFC463</color>
+
+    <!--Shades of Yellow-->
+    <color name="Yellow_Master">#FFE000</color>         <color name="Yellow_Bright">#FFFF00</color>              <color name="Yellow_Dim">#FFFD8D</color>
+
+    <!--Shades of Red-->
+    <color name="Red_PinkishLight">#FF5074</color>      <color name="Red_Pinkish">#FF2C57</color>                 <color name="Red_Deep">#E42C2C</color>            <color name="Red_MidLight">#eb5b5b</color>
+    <color name="Red_Light">#FF7777</color>                <color name="Red_Dim">#FF8585</color>
+
+    <!--Shades of Green-->
+    <color name="Green_Dark">#024400</color>            <color name="Green_Deep">#43F559</color>                  <color name="Green_DeepLight">#52FF5A</color>     <color name="Green_Light">#68FF6F</color>
+
+    <color name="Blue_DeepDark">#2552E1</color>
+    <color name="Blue_Deep">#7290ff</color>               <color name="Blue_Mid">#3dabff</color>                       <color name="Blue_Light">#00CBFF</color>                 <color name="Blue_Dim">#69DCFF</color>
+
+
+    <color name="Black">#FF000000</color>
+    <color name="White">#FFFFFFFF</color>
+
+
+</resources>
