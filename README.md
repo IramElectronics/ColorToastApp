@@ -21,5 +21,5 @@ dependencies {
 	}
   ```
 
-  ![imgdiagram](https://user-images.githubusercontent.com/65340971/207701774-d93dbe3c-e8f4-4cbc-b8ce-76b732f3e913.png]
+  ![imgdiagram](https://user-images.githubusercontent.com/65340971/207701774-d93dbe3c-e8f4-4cbc-b8ce-76b732f3e913.png)
   
